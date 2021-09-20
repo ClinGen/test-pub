@@ -1,2 +1,4 @@
 clean.sh
 smudge.sh
+key-clean.sh
+key-smudge.sh
